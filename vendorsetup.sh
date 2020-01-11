@@ -1,0 +1,3 @@
+add_launch_combo lineage_davinci-userdebug
+add_launch_combo lineage_davinci-eng
+add_launch_combo lineage_davinci-user
